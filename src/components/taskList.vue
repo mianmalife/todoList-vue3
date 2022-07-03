@@ -85,7 +85,7 @@ function clickNoDataItem() {
 
   .cell__box:last-child {
     .van-cell {
-      border-bottom: none
+      border-bottom: none;
     }
   }
 
